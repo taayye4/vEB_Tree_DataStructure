@@ -2,8 +2,8 @@
 
 Main purpose is to evaluate C code written by ChatGPT compared with other human-written code.  
 
-'''c
+```c
 vEBTree.c  
-'''
+```
 
 is the code written with help from ChatGPT.
